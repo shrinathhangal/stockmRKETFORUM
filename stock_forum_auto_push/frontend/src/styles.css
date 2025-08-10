@@ -1,0 +1,7 @@
+body{ font-family: Arial, sans-serif; background:#f5f7fa; margin:0 }
+.topbar{ display:flex; justify-content:space-between; align-items:center; padding:12px 20px; background:#0f172a; color:white }
+.topbar a{ color:inherit; margin-left:12px; text-decoration:none }
+.container{ padding:20px; max-width:900px; margin:24px auto }
+.card{ background:white; padding:12px; border-radius:8px; margin-bottom:12px; box-shadow:0 1px 4px rgba(0,0,0,0.06) }
+textarea{ width:100%; }
+input{ width:100%; padding:8px; margin:6px 0 }
